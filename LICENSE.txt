@@ -2,7 +2,11 @@ The LGPLv3 applies to all code in this project.
 The CC-BY-SA-3.0 license applies to textures and any other content in this project which is not source code.
 
 transport_block (by redyeti)
+        https://github.com/redyeti/minetest-transport_block
+
 based on mesecons (by Mesecons Mod Developer Team / Jeija)
+	http://mesecons.net/
+	https://forum.minetest.net/viewtopic.php?id=628
 
 =================================================================
 
